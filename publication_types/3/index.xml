@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Bhargav N Bhatt</title>
+    <link>https://bhargavbh.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Bhargav N Bhatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://bhargavbh.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Repair of Resource Leaks in Android Applications</title>
+      <link>https://bhargavbh.github.io/publication/plumbdroid/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://bhargavbh.github.io/publication/plumbdroid/</guid>
+      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Almost Event-Rate Independent Monitoring</title>
+      <link>https://bhargavbh.github.io/publication/fmsd19/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://bhargavbh.github.io/publication/fmsd19/</guid>
+      <description>#More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
