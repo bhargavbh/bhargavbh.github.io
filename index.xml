@@ -10,15 +10,6 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Automatic Repair of Resource Leaks in Android Applications</title>
-      <link>https://bhargavbh.github.io/publication/plumbdroid/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>https://bhargavbh.github.io/publication/plumbdroid/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>DroidPLUMB: Repairing Resource-Leak bugs with Static Analysis</title>
@@ -29,45 +20,9 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Almost Event-Rate Independent Monitoring</title>
-      <link>https://bhargavbh.github.io/publication/fmsd19/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://bhargavbh.github.io/publication/fmsd19/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Optimal Proofs for Linear Temporal Logic on Lasso Words</title>
-      <link>https://bhargavbh.github.io/publication/atva18/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://bhargavbh.github.io/publication/atva18/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Game-based cryptography in HOL</title>
-      <link>https://bhargavbh.github.io/publication/afp17/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://bhargavbh.github.io/publication/afp17/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Almost Event-Rate Independent Monitoring of Metric Temporal Logic</title>
-      <link>https://bhargavbh.github.io/publication/tacas17/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://bhargavbh.github.io/publication/tacas17/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Almost Event-Rate Independent Monitoring of Metric Temporal Logic</title>
